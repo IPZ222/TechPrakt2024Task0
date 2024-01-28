@@ -1,4 +1,4 @@
-![Ztupicture](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
+<img src="https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png" alt="bober" width="400" height="120">
 Виконання практичної роботи передбачає вивчення прийомів роботи з системою контролю версій **Git**:
 - створення віддаленого репозиторію;
 - клонування віддаленого репозиторію;
@@ -18,13 +18,13 @@
 
 У **практичній роботі №1** було використано такі команди Git:
 
-[x] git init
-[x] git status
-[x] git add
-[x] git commit
-[x] git remote add
-[x] git push
-[x] git pull
-[ ] git branch
+- [x] git init
+- [x] git status
+- [x] git add
+- [x] git commit
+- [x] git remote add
+- [x] git push
+- [x] git pull
+- [ ] git branch
 
 Виконав: ***Ільїн Ілля***
